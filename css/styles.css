@@ -1,0 +1,27 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  text-decoration: underline;
+}
+
+body {
+  text-align: center;
+  background-color: #e6fff3;
+}
+
+.dummyText {
+  width: 960px;
+  margin: 10px auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:visited {
+  color: inherit;
+}
